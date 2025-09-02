@@ -33,9 +33,20 @@ Generate bespoke, stock‑style images with AI instead of paying for generic sto
 
 ### ✍️ My Learnings
 - What surprised me:
+  - The difference in quality when comparing the output of each tool was interesting. For instance (I copied and pasted the same prompt):
+    1. **Bing Image Creator** produced a variety of images but also tended to add unwanted words to the image, while hallucinating their spelling more often than not.
+    2. **DALL-E** produced 3 to 4 images per prompt and their quality was noticeably better than the base Bing images.
+    3. **Adobe Firefly** (premium image generation) only allowed one free image generation. This was by far the best in terms of understanding the intent of the prompt and producing a truly high-quality vivid image that captures attention and the imagination.
+
 - What I struggled with:
-- What I’ll do differently next time:
+  - Initially my prompts were too long and contained too much detail. This would lead to a greater chance of hallucinating. Utilizing an accompanying AI like ChatGPT or Gemini were great tools to summarize an image idea into a solid prompt for another image generator.
+
+- What I'll do differently next time:
+  - I will make my prompts more precise to avoid AI hallucination.
 
 ### 📎 Extras
 - Links, presets, or files I used:
+  [Day 4 Create a Comic Strip - 30 Day AI Challenge 2024](https://hotelemarketer.com/2024/03/19/day-4-create-a-comic-strip-30-day-ai-challenge-2024/)
+
 - Credits/inspirations:
+  [30 Day AI Challenge 2024](https://hotelemarketer.com/ai/30-day-ai-challenge-2024/)
