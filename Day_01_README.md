@@ -32,10 +32,10 @@ Generate bespoke, stock-style images with AI instead of paying for generic stock
 
 ## ✅ Evaluation Checklist
 
-- [ ] Did I define success criteria before generating?
-- [ ] Did I compare outputs across 2+ tools or settings?
-- [ ] Did I capture sources or parameters for reproducibility?
-- [ ] Did I write 2–3 notes on what to try differently next time?
+- [x] Did I define success criteria before generating?
+- [x] Did I compare outputs across 2+ tools or settings?
+- [x] Did I capture sources or parameters for reproducibility?
+- [x] Did I write 2–3 notes on what to try differently next time?
 
 ## ✍️ My Learnings
 
